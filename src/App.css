@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.customColor {
+  background-color: #badee8;
+}
+
+.customForm{
+  margin-left: 2rem;
+  margin-right: 6rem;
+}
+
+#root{
+  background-color: rgb(245, 245, 245);
+}
+
+.customeffect:hover{
+  transform: scale(1.02);
+}
+
